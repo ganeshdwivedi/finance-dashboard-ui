@@ -1,5 +1,4 @@
 import { createSlice, type PayloadAction } from "@reduxjs/toolkit";
-import dayjs from "dayjs";
 
 export interface Transaction {
   id: string;
